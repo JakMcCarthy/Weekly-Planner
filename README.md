@@ -28,9 +28,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-URL Deployed :  https://smccarthy17.github.io/Weekly-Planner/
+URL Deployed :  https://JakMcCarthy.github.io/Weekly-Planner/
 
-URL GitHub: https://github.com/Smccarthy17/Weekly-Planner.git
+URL GitHub: https://github.com/JakMcCarthy/Weekly-Planner
 
 
 Screenshot:  <img src = "Assets/images/WeeklyPlanner.png">
