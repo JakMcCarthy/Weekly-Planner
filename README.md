@@ -34,7 +34,17 @@ Jackson, Susan, Chris P., Ricky, Sarah, Aaron
 ScreenCapture:
 ![](Assets/05-third-party-apis-homework-demo.gif)
 
+<<<<<<< HEAD
+=======
+URL Deployed :  https://jakmccarthy.github.io/Weekly-Planner/
+
+URL GitHub: https://github.com/JakMcCarthy/Weekly-Planner
+>>>>>>> b30d7c8b539b44ac1ea4b1a77db19e503e4df0bf
 
 Deployed Link: https://jakmccarthy.github.io/Weekly-Planner/
 
+<<<<<<< HEAD
 URL GitHub: https://github.com/JakMcCarthy/Weekly-Planner
+=======
+Screenshot:  <img src = "Assets/images/WeeklyPlanner.png">
+>>>>>>> b30d7c8b539b44ac1ea4b1a77db19e503e4df0bf
