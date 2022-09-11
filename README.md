@@ -1,6 +1,6 @@
 # Weekly-Planner
-
-I created a simple, clean calendar application that allows the user to save events for each hour of a standard working day. This app runs in the browser and features dynamic HTML and CSS powered by jQuery. The Moment.js library is used for date and time.
+## Description
+An easy to use calendar app that can allow its users to schedule their daily events by the hours of a standard working day. This app runs in the browser and features dynamic HTML and CSS powered by jQuery and utilizing the Moment.js library for  the time and date.
 
 ## User Story
 
@@ -27,10 +27,14 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Collaborators
+```
+Jackson, Susan, Chris P., Ricky, Sarah, Aaron
+```
+ScreenCapture:
+![](Assets/05-third-party-apis-homework-demo.gif)
 
-URL Deployed :  https://smccarthy17.github.io/Weekly-Planner/
 
-URL GitHub: https://github.com/Smccarthy17/Weekly-Planner.git
+Deployed Link: https://jakmccarthy.github.io/Weekly-Planner/
 
-
-Screenshot:  <img src = "Assets/images/WeeklyPlanner.png">
+URL GitHub: https://github.com/JakMcCarthy/Weekly-Planner
